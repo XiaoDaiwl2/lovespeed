@@ -11,4 +11,4 @@ tgbotapi=
 curl --data chat_id="$tgid" --data-urlencode "text=§$lsn§
 
 $ls1
-$ls2" "https://api.telegram.org/bot$tgbotapi/sendMessage?parse_mode=HTML"
+$ls2" "https://api.telegram.org/bot$7106451814:AAGaoRK04BL-rqv9Hy1YHZrSZDy-2VHya8Y/sendMessage?parse_mode=HTML"
